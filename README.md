@@ -14,6 +14,7 @@ HTML, CSS, and JavaScript. It offers a block-based visual coding interface that 
 ✨ User-Friendly UI – A clean, intuitive interface tailored for beginners learning visual programming.
 
 
+
 🛠️ Tech Stack
 ReactJS
 
@@ -22,4 +23,6 @@ HTML5
 CSS3
 
 GITHUB: https://github.com/utkarsh98710/Mit-scratch/tree/master
+
+![Screenshot 2025-05-19 182252](https://github.com/user-attachments/assets/cea86fb1-35fc-4874-a8c3-f3d5054e55cc)
 
