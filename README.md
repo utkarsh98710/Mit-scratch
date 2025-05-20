@@ -1,3 +1,5 @@
+DEPLOYMENT LINK: PROJECT NOT DEPLOYED
+
 MIT Scratch Dummy – Visual Coding Playground Clone
 This project is a simplified clone of the MIT Scratch platform, crafted using ReactJS,
 HTML, CSS, and JavaScript. It offers a block-based visual coding interface that empowers users to animate sprites through drag-and-drop programming.
