@@ -1,4 +1,4 @@
-DEPLOYMENT LINK: [PROJECT NOT DEPLOYED](https://682c43395937c6ae8c5fad14--mt-scratch-dummy1.netlify.app/)
+DEPLOYMENT LINK: https://682c43395937c6ae8c5fad14--mt-scratch-dummy1.netlify.app/
 
 MIT Scratch Dummy – Visual Coding Playground Clone
 This project is a simplified clone of the MIT Scratch platform, crafted using ReactJS,
