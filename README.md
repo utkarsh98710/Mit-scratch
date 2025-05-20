@@ -23,6 +23,3 @@ CSS3
 
 GITHUB: https://github.com/utkarsh98710/Mit-scratch/tree/master
 
-PIC:
-
-PIC:![Screenshot 2025-05-19 182252](https://github.com/user-attachments/assets/b352f28a-d369-41fe-bc2e-374187a07a25)
